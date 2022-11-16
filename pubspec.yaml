@@ -39,6 +39,10 @@ dependencies:
   oauth2: ^2.0.1
   url_launcher: ^6.1.6
   http: ^0.13.5
+  github: ^9.6.0
+  window_to_front:
+    path: ../window_to_front
+  fluttericon: ^2.0.0
 
 dev_dependencies:
   flutter_test:
